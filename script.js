@@ -114,7 +114,7 @@ const question = [
             {text:"Ego,Short temper,Attitite", correct:false},
             {text:"The same vibe, which i have", correct:true},
             {text:"Playboy", correct:false},
-            {text:"Shy,Innocent",correct:true}
+            {text:"Shy,Innocent",correct:false}
     
         ]
     },
