@@ -111,7 +111,7 @@ const question = [
     {
         question: "What kind of quality will i prefer in my partner?",
         answers:[
-            {text:"Shy,Innocent",correct:false}
+            {text:"Shy,Innocent",correct:false},
             {text:"Ego,Short temper,Attitite", correct:false},
             {text:"The same vibe, which i have", correct:true},
             {text:"Playboy", correct:false},
