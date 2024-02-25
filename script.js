@@ -102,7 +102,7 @@ const question = [
     {
         question:"which one will i prefer? ",
         answers:[
-            {text:"KFC", correct:falsealse},
+            {text:"KFC", correct:false},
             {text:"Dominocs", correct:false},
             {text:"Street Food", correct:true},
             {text:"WOW MOMO", correct:false},
