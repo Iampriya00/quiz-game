@@ -80,6 +80,54 @@ const question = [
             {text:"Darr", correct:false},
         ]
     },
+    {
+        question: "Which song i always prefer to listen at any situation",
+        answers:[
+            {text:"Mahi re", correct:false},
+            {text:"Lega lega re", correct:true},
+            {text:"Chal ve watna", correct:false},
+            {text:"Teri or", correct:false},
+        ]
+    },
+    {
+        question: "Which underrated movie i always ready to watch?",
+        answers:[
+            
+            {text:"Majili", correct:false},
+            {text:"A aa", correct:false},
+            {text:"Akash Vani", correct:true},
+            {text:"Laila Majnu", correct:true},
+        ]
+    },
+    {
+        question:"which one will i prefer? ",
+        answers:[
+            {text:"KFC", correct:falsealse},
+            {text:"Dominocs", correct:false},
+            {text:"Street Food", correct:true},
+            {text:"WOW MOMO", correct:false},
+        ]
+    },
+    {
+        question: "What kind of quality will i prefer in my partner?",
+        answers:[
+            {text:"Ego,Short temper,Attitite", correct:false},
+            {text:"The same vibe, which i have", correct:true},
+            {text:"Playboy", correct:false},
+            {text:"Shy,Innocent",correct:true}
+    
+        ]
+    },
+    {
+        question: "Three wish i want to fulfill:",
+        answers:[
+            {text:"2nd nov in front of mannat, Long Drive with Partner, Explore whole world", correct:false},
+            {text:"2nd nov in front of mannat,watch world cup, Explore whole world", correct:false},
+            {text:"2nd nov in front of mannat,Attend arijit singh live concert,Watch world cup", correct:true},
+            {text:"Explore whole world,Long Drive with Partner,Attend arijit singh live concert", correct:false},
+        ]
+    },
+
     
 ];
 
